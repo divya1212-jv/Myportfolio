@@ -18,3 +18,25 @@
     justify-content: space-between;
     align-items: center;
 }
+.logo{
+    width: 80px;
+}
+.logo-container{
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+.logotext{
+    margin-left: -1.2 rem;
+    font-size: 28px;
+}
+.nav-item div{
+    font-size: 25px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.nav-item div a{
+     color: black;
+     text-decoration: none;
+
+}
